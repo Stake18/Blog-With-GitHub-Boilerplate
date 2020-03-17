@@ -20,7 +20,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "测试博客"
-site_logo = "${static_prefix}logo.png"
+site_logo = "https://cdn.v2ex.com/gravatar/adec9b80ea112b817d2c2d63d1efbcb9.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "Stake18"
 email = "swjh2000@foxmail.com"
@@ -30,14 +30,9 @@ key_words = ['Maverick',  'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
-    {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "牌人杂记",
+        "url": "https://ignister.cn",
+        "brief": "Enjoy Playing."
     }
 ]
 nav = [
@@ -60,19 +55,9 @@ nav = [
 
 social_links = [
     {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
-    },
-    {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/Stake18",
         "icon": "gi gi-github"
-    },
-    {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
     }
 ]
 
