@@ -21,7 +21,8 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "大木桩18's Blog"
 site_logo = "${static_prefix}icon.jpg"
-site_build_date = "2020-3-17T00:00+08:00"author = "Stake18"
+site_build_date = "2020-3-17T00:00+08:00"
+author = "Stake18"
 email = "swjh2000@foxmail.com"
 author_homepage = "https://ignister.cn"
 description = "苟利国家生死以，岂因祸福避趋之。"
