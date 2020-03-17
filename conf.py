@@ -20,7 +20,7 @@ enable_jsdelivr = {
 
 # 站点设置
 site_name = "大木桩18's Blog"
-site_logo = "https://cdn.v2ex.com/gravatar/adec9b80ea112b817d2c2d63d1efbcb9.png"
+site_logo = "${static_prefix}https://cdn.v2ex.com/gravatar/adec9b80ea112b817d2c2d63d1efbcb9.png"
 site_build_date = "2020-3-17T00:00+08:00"author = "Stake18"
 email = "swjh2000@foxmail.com"
 author_homepage = "https://ignister.cn"
